@@ -17,13 +17,6 @@ A modern and responsive e-commerce shopping cart application featuring:
 - **AI Chatbot**: Virtual assistant helps with shopping, delivery, and common queries.
 - **Responsive Design**: Fully mobile-friendly and desktop-ready.
 
-## 📸 Screenshots
-
-> *(Add screenshots here if available. Example below)*
-
-| Tamil Language Mode | English Language Mode |
-|---------------------|------------------------|
-| ![Tamil Mode](assets/tamil-mode.png) | ![English Mode](assets/english-mode.png) |
 
 ## 🔧 Tech Stack
 
